@@ -1,16 +1,62 @@
-### Hi there 👋
+# Hi Welcome ^^
 
-<!--
-**Happyuky7/Happyuky7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Portfolio:
+
+[View Website and Portfolio | (Click Here)](https://happy7.xyz/links/)
+
+### Skills, Program Languages, Tools & Orthers:
+- Java
+- JavaScript
+- NodeJS
+- NPM
+- Python
+- HTML
+- CSS
+- MongoDB
+- Redis
+- Blender
+- Unity
+- Arduino
+- Unity (From VRChat)
+- Spigot/Paper/BungeeCord API Minecraft Servers.
+- Nginx
+- 3D Print
+- Linux
+
+### Speaking Language:
+- Spanish Language
+- English Language
+
+### Learning:
+- 3D Model Desing Blender and AutoDesk Inventor
+- Krita
+- Docker
+- TypeScript
+- C++
+- C#
+- Python (IA)
+- English Language
+- Japanese Language
+- Portuguese Language
+- German Language
+
+### Social Media:
+- [Website](https://happy7.xyz/links/)
+- [Twitter (X)](https://x.com/Happyuky7)
+- [Twitch](https://www.twitch.tv/happyuky7)
+- [Discord](https://discord.gg/3EebYUyeUX)
+- [Youtube](https://www.youtube.com/channel/UCm13AIEM5Rn7ughwv1N3DnA)
+- [Instagram](https://www.instagram.com/happyuky7/)
+- [StackOverflow](https://stackoverflow.com/users/17251608/happy7)
+- [Tiktok](https://www.tiktok.com/@happyuky7)
+
+### Stats
+  
+[![Happyuky7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Happyuky7&show_icons=true&theme=merko)](https://github.com/Happyuky7/)   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happyuky7&layout=compact&theme=tokyonight)](https://github.com/Happyuky7/)
+
