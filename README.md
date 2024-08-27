@@ -7,6 +7,7 @@
 ### Portfolio:
 
 [View Web | (Click Here)](https://happy7.xyz/)
+
 [View Website and Portfolio | (Click Here)](https://happy7.xyz/links/)
 
 ### Skills, Program Languages, Tools & Orthers:
