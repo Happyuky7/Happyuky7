@@ -37,6 +37,7 @@
 - 3D Model Desing Blender and AutoDesk Inventor
 - Krita
 - Docker
+- Julia 
 - TypeScript
 - C++
 - C#
