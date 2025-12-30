@@ -6,9 +6,9 @@
 
 ### Portfolio:
 
-[View Web | (Click Here)](https://happy7.xyz/)
+[View Web | (Click Here)](https://happyuky7.com/)
 
-[View Website and Portfolio | (Click Here)](https://happy7.xyz/links/)
+[View Website and Portfolio | (Click Here)](https://happyuky7.com/links/)
 
 ### Skills, Program Languages, Tools & Orthers:
 - Java
@@ -48,12 +48,11 @@
 - German Language
 
 ### Social Media:
-- [Website](https://happy7.xyz/links/)
+- [Website](https://happyuky7.com/links/)
 - [Twitter (X)](https://x.com/Happyuky7)
 - [Twitch](https://www.twitch.tv/happyuky7)
 - [Discord](https://discord.gg/3EebYUyeUX)
 - [Youtube](https://www.youtube.com/channel/UCm13AIEM5Rn7ughwv1N3DnA)
-- [Instagram](https://www.instagram.com/happyuky7/)
 - [StackOverflow](https://stackoverflow.com/users/17251608/happy7)
 - [Tiktok](https://www.tiktok.com/@happyuky7)
 
